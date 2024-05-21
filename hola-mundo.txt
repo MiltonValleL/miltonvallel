@@ -1,1 +1,4 @@
 Hola mundo, este es un mensaje de texto.
+
+Ahora estoy agregando una nueva línea desde Visual Basic, 
+en mi archivo clonado de Git.
